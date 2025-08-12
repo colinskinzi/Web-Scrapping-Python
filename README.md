@@ -17,9 +17,9 @@ I used a virtual Environment to run the code on VS Code via CMD Prompt.
    
 3. Accessing the website to scrap ie. Wikipendia: list of largest companies in the US by revenue.
 4. Analyze/Inspect the html link elements to find where the data is located.
-6. using a Find_all BS synatax to locate the table of content available on html site(wiki site has a table with the data neeed, hence
-    the need to access this table).
+5. using a Find_all BS synatax to locate the table of content available on html site(wiki site has a table with the data neeed, hence
+   the need to access this table).as shown in [Web Scrape](scape.py)
 7. Using Pandas DataFrame synax we create a table for the data extracted from the website.
 8. Finally, we have can download the data as a CSV by create one and input the dataFrame Columns into the CSV file.  
-
+   [Largest Us Companies](Largest%20US%20companies.csv)
 
